@@ -84,6 +84,13 @@ button:hover,button:active{
     color: #575757;
     font-size: 1rem;
 }
+/* .projects li p{
+    background: #ffe3ee;
+} */
+.droppable{
+    background: #d6e1ff;
+}
+
 #finished-projects .droppable{
     background: #d6e1ff;
 }
